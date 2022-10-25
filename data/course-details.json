@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Javascript",
+        "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+        "details": "JavaScript is a programming language for the web. Its syntax is based on Java and C languages. Used in both the front-end and back-end of many platforms, JavaScript has become a standard. For every animated or interactive object you see online, chances are JavaScript is involved.JavaScript’s language is widely used to create a more interactive front-end. Still, it is used in competition with other languages to create web scrapers, servers, and many other tools. This is because of the language and design decisions made when creating the language.According to the 2020 Stack Overflow Developer Survey , JavaScript is the most popular coding language."
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "img": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png",
+        "details": "Python is one of the most popular programming languages in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.Python offers a large number of online libraries that help you tackle common use cases. Its clear and simple syntax makes it a favorite among beginner and veteran programmers alike.Analyzing and visualizing data with Python is a really pleasant experience. You can perform mathematical and statistical operations without breaking a sweat – all you need is the right Python library. In this case, these would include NumPy, pandas, matplotlib or scikit-learn. If you feel this could be your cup of tea, LearnPython.com has the perfect learning track for DATA SCIENCE"
+    },
+    {
+        "id": 3,
+        "name": "C++",
+        "img": "https://miro.medium.com/max/1400/1*C4SccvODYv4SBypJFmYAEw.png",
+        "details": "C++ is an object-orient programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language.A related programming language, Java, is based on C++ but optimized for the distribution of program objects in a network such as the Internet. Java is somewhat simpler and easier to learn than C++ and has characteristics that give it other advantages over C++. However, both languages require a considerable amount of study."
+    },
+    {}
+]
