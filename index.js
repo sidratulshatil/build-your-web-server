@@ -14,7 +14,11 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id
+    const selectedNews = news.find(n => n.id === id)
+    res.send(selectedNews)
+})
 
 app.listen(port, () => {
     console.log('Server running on 5000 port')
