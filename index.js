@@ -13,6 +13,9 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses)
 })
+
+
+
 app.listen(port, () => {
     console.log('Server running on 5000 port')
 })
