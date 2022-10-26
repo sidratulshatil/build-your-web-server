@@ -1,36 +1,48 @@
 [
     {
-        "id": 1,
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "name": "Javascript",
+        "price": "200$",
+        "no": 1,
         "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
         "details": "JavaScript is a programming language for the web. Its syntax is based on Java and C languages. Used in both the front-end and back-end of many platforms, JavaScript has become a standard. For every animated or interactive object you see online, chances are JavaScript is involved.JavaScript’s language is widely used to create a more interactive front-end. Still, it is used in competition with other languages to create web scrapers, servers, and many other tools. This is because of the language and design decisions made when creating the language.According to the 2020 Stack Overflow Developer Survey , JavaScript is the most popular coding language."
     },
     {
-        "id": 2,
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "name": "Python",
+        "price": "240$",
+        "no": 2,
         "img": "https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png",
         "details": "Python is one of the most popular programming languages in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.Python offers a large number of online libraries that help you tackle common use cases. Its clear and simple syntax makes it a favorite among beginner and veteran programmers alike.Analyzing and visualizing data with Python is a really pleasant experience. You can perform mathematical and statistical operations without breaking a sweat – all you need is the right Python library. In this case, these would include NumPy, pandas, matplotlib or scikit-learn. If you feel this could be your cup of tea, LearnPython.com has the perfect learning track for DATA SCIENCE"
     },
     {
-        "id": 3,
+        "_id": "f69a695f037cd9484cecaea37ca71011",
         "name": "C++",
+        "price": "300$",
+        "no": 3,
         "img": "https://miro.medium.com/max/1400/1*C4SccvODYv4SBypJFmYAEw.png",
         "details": "C++ is an object-orient programming (OOP) language that is viewed by many as the best language for creating large-scale applications. C++ is a superset of the C language.A related programming language, Java, is based on C++ but optimized for the distribution of program objects in a network such as the Internet. Java is somewhat simpler and easier to learn than C++ and has characteristics that give it other advantages over C++. However, both languages require a considerable amount of study."
     },
     {
-        "id": 4,
+        "_id": "f69a695f037cd9484cecaea37ca71012",
         "name": "Java",
+        "price": "150$",
+        "no": 4,
         "img": "https://imageio.forbes.com/specials-images/imageserve/5e7cce1921695a000666cc29/Java-14/960x0.jpg?format=jpg&width=960",
         "details": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.One major advantage of developing software with Java is its portability. Once you have written code for a Java program on a notebook computer, it is very easy to move the code to a mobile device. When the language was invented in 1991 by James Gosling of Sun Microsystems (later acquired by Oracle), the primary goal was to be able to write once, run anywhere."
     },
     {
-        "id": 5,
+        "_id": "11468ed61aee84de492a8b04158a22f9",
         "name": "PHP",
+        "price": "180$",
+        "no": 5,
         "img": "https://kinsta.com/wp-content/uploads/2018/05/what-is-php-3-1.png",
         "details": "PHP is one of the most widely used server side scripting language for web development. Popular websites like Facebook, Yahoo, Wikipedia etc, and our very own Studytonight, are developed using PHP.PHP is so popular because it's very simple to learn, code and deploy on server, hence it has been the first choice for beginners since decades.PHP stands for Hypertext Pre-Processor. PHP is a scripting language used to develop static and dynamic webpages and web applications. Here are a few important things you must know about PHP."
     },
     {
-        "id": 6,
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "no": 6,
+        "price": "150$",
         "name": "C#",
         "img": "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
         "details": "C# is a modern, general-purpose programming language that can be used to perform a wide range of tasks and objectives that span over a variety of professions. C# is primarily used on the Windows .NET framework, although it can be applied to an open source platform. This highly versatile programming language is an object-oriented programming language (OOP)—which isn’t very common—and fairly new to the game, yet already a reliable.When compared to long-standing languages like Python and PHP, C# is a young addition to the programming family at nearly twenty years old. The language was developed in the year 2000 by Microsoft’s Anders Hejlsberg, a Danish software engineer with a history for popular creations. Anders has taken part in the creation of a handful of dependable programming tools and languages, including Microsoft’s TypeScript and Delphi, a suitable replacement for Turbo Pascal."
